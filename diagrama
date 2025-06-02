@@ -1,0 +1,19 @@
+[Usuario]
+   |
+   v
+[Interfaz Web de ART-3-HUB]
+   |
+   +--> [Asistente Virtual con IA]
+   |
+   +--> [Módulo Educativo]
+   |        |
+   |        v
+   |   [Cursos y Retos]
+   |
+   +--> [Módulo de Descubrimiento de Talento]
+   |
+   v
+[Certificados SBTs]
+   |
+   v
+[Blockchain de Polkadot]
