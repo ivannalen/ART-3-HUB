@@ -41,7 +41,7 @@ Enlace con la Escuela Nounish IRL (Trujillo – Perú) como piloto en marcha.
 👩‍🎨 Sobre el Equipo Este proyecto nace desde la Escuela de Arte Nounish IRL en Perú, una comunidad educativa de la mano de Nouns DAO que impulsa a jóvenes creativos a convertirse en creadores Web3 a través del arte, la colaboración y la tecnología.
 
 Roadmap técnico
-🛠️ Technical Roadmap – AI Studio
+🛠️ Technical Roadmap – ART3 HUB
 ✅ Fase 1: MVP (Junio 2025)
 Objetivo: Mostrar una experiencia funcional con intención clara de uso de blockchain.
 
