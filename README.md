@@ -1,5 +1,5 @@
-# ART-3-HUB
-ART 3 HUB
+# AI STUDIO
+AI STUDIO
 Plataforma de Aprendizaje Web3 y Asistente Creativo para Artistas Emergentes 🧠 Problema Los artistas emergentes y creativos en Latinoamérica enfrentan tres grandes desafíos:
 
 Falta de acceso a educación Web3 y blockchain en un lenguaje y formato accesible.
